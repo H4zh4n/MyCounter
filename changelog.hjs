@@ -1,0 +1,69 @@
+v.1.3.3
+• Daily reminder is here. set it up from settings.
+• Swipe Counters from left to right for more options (Edit/Reset/Delete).
+• Added Guide for stuff in the app. Will be updated on each new version.
+• Huge chunk of UI has been remade.
+    ○ New Popup alerts.
+    ○ Roundish Counters/Buttons/Text-Boxes.
+________________________________
+v1.3.2.1
+• Notification Icon fix.
+________________________________
+v1.3.2
+• First time open tutorial (accessible from settings too).
+• Select PER Day/Week/Month.
+• Select how many seconds for history records to be treated as one.
+• New background color (bluish tint).
+• Implemented new notification/in-app messages for future use.
+• Small bug fixes related to deleting counters/histories.
+________________________________
+v1.3.1
+• Copy list.
+    ○ Copy the values or have them start from reseted value.
+• Increase/Decrease buttons bug fix where it missed sometimes.
+• Settings redesigned.
+• Small tweaks and adjustments in apps overall look and performance.
+• New Easter Egg. go hunt.
+________________________________
+v1.3 b10
+• Swipe down to Refresh (Main/Histories).
+• Add Notes to specific histories.
+    ○ Hold on a history and add notes.
+    ○ Deleting histories are now by holding aswell.
+• Histories show amount of increase/decrease.
+• Export/Import works much better now.
+    ○ Export/Import are faster.
+    ○ Write total of counter/history in export files.
+    ○ Most bugs that caused Export/Import to close are resolved.
+    ○ Renamed to Backup/Restore. looks more convenient.
+________________________________
+v1.3 b9
+• Support down to Android 5.0 (SDK 21).
+• History page redesign.
+    ○ Can delete specific history now.
+    ○ Instant Scroll to Top/Bottom.
+    ○ Histories have a count number on them.
+• Main/Edit page small redesign.
+• Random color gen in Add/Update page.
+• Undo Delete of History.
+• Undo Delete of Counters [Main Screen Only].
+• Time passed in Edit/History page redesign.
+• Bug fixes:
+    ○ inc/dec buttons bug when pressed fast.
+    ○ In-App Colors corrected.
+    ○ Import will not display folders that have empty files.
+    ○ Better Export Handling.
+________________________________
+v1.3 b8
+• Preview style when adding/editing counters.
+• Rework Backup/Import entirely.
+    ○ Backup counters more than one time.
+    ○ Import list of all backups.
+• Reduce app size.
+________________________________
+v1.3 b7
+• Reworked update pop-up/connection.
+• Bug fixes.
+________________________________
+v1.3 b6
+• Be notified about updates automatically from Main screen (Manually from settings).
