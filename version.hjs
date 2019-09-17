@@ -1,19 +1,13 @@
-1.3.2.1 13
-https://github.com/H4zh4n/MyCounter/
-Jul/10/2019
+1.3.3 14
+https://github.com/H4zh4n/MyCounter/releases/tag/v1.3.3
+Sep/17/2019
 ________________
-#f55943|<b><i>WHAT'S NEW IN 1.3.2.1?</b></i>|x
-+ Notification Icon Fix.
+#f55943|<b><i>! BACKUP TO BE SAFE !</b></i>|x
 
-#f55943|<b><i>WHAT'S NEW IN 1.3.2?</b></i>|x
-#f6bb42|<b>+ First open</b>|x
-~- First time open #a0d468|tutorial|x (accessible from settings too).
-#f6bb42|<b>+ Edit page</b>|x
-~- Select PER #a0d468|Day|x/#f6bb42|Week|x/#f55943|Month|x.
-#f6bb42|<b>+ Settings</b>|x
-~- Select how many seconds for history records to be treated as one.
-#f6bb42|<b>+ All screens</b>|x
-~- New background color (#5d9cec|bluish tint|x).
-#f6bb42|<b>+ Others</b>|x
-~- Implemented new #f6bb42|notification|x/#f55943|in-app messages|x for future use.
-~- Small bug fixes related to #f55943|deleting|x counters/histories.
+#f55943|<b><i>WHAT'S NEW IN 1.3.3?</b></i>|x
++ Daily reminder is here. set it up from settings.
++ Swipe Counters/History from left to right for more options (Edit/Reset/Delete).
++ Added Guide for stuff in the app. Will be updated on each new version.
++ Huge chunk of UI has been remade.
+~~~~- New Popup alerts/Toast-Messages.
+~~~~- Roundish Counters/Buttons/Text-Boxes.

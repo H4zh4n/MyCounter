@@ -2,21 +2,18 @@ MyCounter
 ------------
 > <img  alt="Logo" src="Images/MyCounter.png" width="100" />
 
-> Version: 1.3.2.1 | min: Android 5.0 (SDK 21)
+> Version: 1.3.3 | min: Android 5.0 (SDK 21)
 
 **DOWNLOAD**
-> [MyCounter_v1.3.2.1.apk](https://github.com/H4zh4n/MyCounter/raw/master/APK/MyCounter_v1.3.2.1.apk)
+> [MyCounter_v1.3.3.apk](https://github.com/H4zh4n/MyCounter/raw/master/APK/MyCounter_v1.3.3.apk)
 
-**WHAT'S NEW IN 1.3.2.1?**
-+ Notification Icon fix.
-
-**WHAT'S NEW IN 1.3.2?**
-+ First time open tutorial (accessible from settings too).
-+ Select PER Day/Week/Month.
-+ Select how many seconds for history records to be treated as one.
-+ New background color (bluish tint).
-+ Implemented new notification/in-app messages for future use.
-+ Small bug fixes related to deleting counters/histories.
+**WHAT'S NEW IN 1.3.3?**
++ Daily reminder is here. set it up from settings.
++ Swipe Counters from left to right for more options (Edit/Reset/Delete).
++ Added Guide for stuff in the app. Will be updated on each new version.
++ Huge chunk of UI has been remade.
+    - New Popup alerts/Toast-Messages.
+    - Roundish Counters/Buttons/Text-Boxes.
 
 
 The App Screen
