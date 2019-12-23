@@ -1,4 +1,13 @@
-v.1.3.3
+v1.0.17 | 2019 Dec 23
+• Official Google Play Release.
+• Set layout designs for viewing counters (Settings).
+• Custom sort now works better (Hold and Drag the counter to re-order).
+• More info displayed in restore dialog (Settings).
+• Fix bug for back-up for histories that had comments with empty lines. (older backups no longer usable if they contain comments).
+• Small UI redesign in Expanded Counter page/History page.
+• Comma Separator in Settings.
+________________________________
+v0.1.3.3 | 2019 Sep 17
 • Daily reminder is here. set it up from settings.
 • Swipe Counters from left to right for more options (Edit/Reset/Delete).
 • Added Guide for stuff in the app. Will be updated on each new version.
@@ -6,10 +15,10 @@ v.1.3.3
     ○ New Popup alerts.
     ○ Roundish Counters/Buttons/Text-Boxes.
 ________________________________
-v1.3.2.1
+v0.1.3.2.1
 • Notification Icon fix.
 ________________________________
-v1.3.2
+v0.1.3.2
 • First time open tutorial (accessible from settings too).
 • Select PER Day/Week/Month.
 • Select how many seconds for history records to be treated as one.
@@ -17,7 +26,7 @@ v1.3.2
 • Implemented new notification/in-app messages for future use.
 • Small bug fixes related to deleting counters/histories.
 ________________________________
-v1.3.1
+v0.1.3.1
 • Copy list.
     ○ Copy the values or have them start from reseted value.
 • Increase/Decrease buttons bug fix where it missed sometimes.
@@ -25,7 +34,7 @@ v1.3.1
 • Small tweaks and adjustments in apps overall look and performance.
 • New Easter Egg. go hunt.
 ________________________________
-v1.3 b10
+v0.1.3 b10
 • Swipe down to Refresh (Main/Histories).
 • Add Notes to specific histories.
     ○ Hold on a history and add notes.
@@ -37,7 +46,7 @@ v1.3 b10
     ○ Most bugs that caused Export/Import to close are resolved.
     ○ Renamed to Backup/Restore. looks more convenient.
 ________________________________
-v1.3 b9
+v0.1.3 b9
 • Support down to Android 5.0 (SDK 21).
 • History page redesign.
     ○ Can delete specific history now.
@@ -54,16 +63,16 @@ v1.3 b9
     ○ Import will not display folders that have empty files.
     ○ Better Export Handling.
 ________________________________
-v1.3 b8
+v0.1.3 b8
 • Preview style when adding/editing counters.
 • Rework Backup/Import entirely.
     ○ Backup counters more than one time.
     ○ Import list of all backups.
 • Reduce app size.
 ________________________________
-v1.3 b7
+v0.1.3 b7
 • Reworked update pop-up/connection.
 • Bug fixes.
 ________________________________
-v1.3 b6
+v0.1.3 b6
 • Be notified about updates automatically from Main screen (Manually from settings).
