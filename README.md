@@ -2,18 +2,21 @@ MyCounter
 ------------
 > <img  alt="Logo" src="Images/MyCounter.png" width="100" />
 
-> Version: 1.0.17 | min: Android 5.0 (SDK 21)
+> Version: 1.0.18 | min: Android 5.0 (SDK 21)
 
 **DOWNLOAD**
-> [MyCounter_v1.0.17.apk](https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter)
+> [MyCounter_v1.0.18.apk](https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter)
 
-**WHAT'S NEW IN 1.0.17?**
-+ Set layout designs for viewing counters (Settings).
-+ Custom sort now works better (Hold and Drag the counter to re-order).
-+ More info displayed in restore dialog (Settings).
-+ Fix bug for back-up for histories that had comments with empty lines. (older backups no longer usable if they contain comments).
-+ Small UI redesign in Expanded Counter page/History page.
-+ Comma Separator in Settings.
+**WHAT'S NEW IN 1.0.18?**
+• Fix Force Close on some devices.
+• Change History Displayed style.
+• Fixed tiny scrollbar on long lists issue.
+	○ Scrolling in History shows the date.
+	○ Scrolling in Main shows counter titles.
+• Show warning when list (added/renamed) is a reserved keywords/already exists. [Reported by Miran Esmail]
+• Counter created in a different year has calculate ratio for both years (year created and current). 
+• Support Right to left layout (languages). 
+• Some other Minor bug fixes.
 
 
 The App Screen
