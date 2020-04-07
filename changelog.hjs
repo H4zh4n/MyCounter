@@ -1,3 +1,14 @@
+v1.0.18 | 2020 Apr 07
+• Fix Force Close on some devices.
+• Change History Displayed style.
+• Fixed tiny scrollbar on long lists issue.
+	○ Scrolling in History shows the date.
+	○ Scrolling in Main shows counter titles.
+• Show warning when list (added/renamed) is a reserved keywords/already exists. [Reported by Miran Esmail]
+• Counter created in a different year has calculate ratio for both years (year created and current). 
+• Support Right to left layout (languages). 
+• Some other Minor bug fixes.
+________________________________
 v1.0.17 | 2019 Dec 23
 • Official Google Play Release.
 • Set layout designs for viewing counters (Settings).
