@@ -1,13 +1,14 @@
-1.3.3 14
-https://github.com/H4zh4n/MyCounter/releases/tag/v1.3.3
-Sep/17/2019
+1.0.18 18
+https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter
+Apr/07/2020
 ________________
-#f55943|<b><i>! BACKUP TO BE SAFE !</b></i>|x
-
 #f55943|<b><i>WHAT'S NEW IN 1.3.3?</b></i>|x
-+ Daily reminder is here. set it up from settings.
-+ Swipe Counters/History from left to right for more options (Edit/Reset/Delete).
-+ Added Guide for stuff in the app. Will be updated on each new version.
-+ Huge chunk of UI has been remade.
-~~~~- New Popup alerts/Toast-Messages.
-~~~~- Roundish Counters/Buttons/Text-Boxes.
++ Fix Force Close on some devices.
++ Change History Displayed style.
++ Fixed tiny scrollbar on long lists issue.
+~~~~- Scrolling in History shows the date.
+~~~~- Scrolling in Main shows counter titles.
++ Show warning when list (added/renamed) is a reserved keywords/already exists. [Reported by Miran Esmail]
++ Counter created in a different year has calculate ratio for both years (year created and current). 
++ Support Right to left layout (languages). 
++ Some other Minor bug fixes.
