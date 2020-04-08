@@ -7,16 +7,18 @@ MyCounter
 **DOWNLOAD**
 > [MyCounter_v1.0.18.apk](https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter)
 
-**WHAT'S NEW IN 1.0.18?**
-• Fix Force Close on some devices.
-• Change History Displayed style.
-• Fixed tiny scrollbar on long lists issue.
-	○ Scrolling in History shows the date.
-	○ Scrolling in Main shows counter titles.
-• Show warning when list (added/renamed) is a reserved keywords/already exists. [Reported by Miran Esmail]
-• Counter created in a different year has calculate ratio for both years (year created and current). 
-• Support Right to left layout (languages). 
-• Some other Minor bug fixes.
+
+**WHAT'S NEW IN 1.0.18?** <br>
+
+• Fix Force Close on some devices. <br>
+• Change History Displayed style. <br>
+• Fixed tiny scrollbar on long lists issue. <br>
+&nbsp;&nbsp;&nbsp;○ Scrolling in History shows the date. <br>
+&nbsp;&nbsp;&nbsp;○ Scrolling in Main shows counter titles. <br>
+• Show warning when list (added/renamed) is a reserved keywords/already exists. [Reported by Miran Esmail]<br>
+• Counter created in a different year has calculate ratio for both years (year created and current).  <br>
+• Support Right to left layout (languages).  <br>
+• Some other Minor bug fixes. <br>
 
 
 The App Screen
