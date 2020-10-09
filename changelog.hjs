@@ -1,3 +1,11 @@
+v1.0.19 | 2020 Oct 10
+• Show Sum of Counter for selected list in Main window (Requested by Sarfaraz Bheda).
+• Introduced list specific options. Sort Order, Showing Sum and Comma Separator can now be changed separately for each list.
+This may cause previous options for sorting and comma to restore to default. sorry for that.
+• When selecting a list, have the title bar text set to that list for better visual (Requested by Sarfaraz Bheda).
+• Code base improvement for future updates.
+• Target SDK changed to 29.
+________________________________
 v1.0.18 | 2020 Apr 07
 • Fix Force Close on some devices.
 • Change History Displayed style.
