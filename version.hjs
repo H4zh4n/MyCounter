@@ -1,14 +1,11 @@
-1.0.18 18
+1.0.19 19
 https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter
-Apr/07/2020
+Oct/10/2020
 ________________
-#f55943|<b><i>WHAT'S NEW IN v1.0.18?</b></i>|x
-+ Fix Force Close on some devices.
-+ Change History Displayed style.
-+ Fixed tiny scrollbar on long lists issue.
-~~~~- Scrolling in History shows the date.
-~~~~- Scrolling in Main shows counter titles.
-+ Show warning when list (added/renamed) is a reserved keywords/already exists. [Reported by Miran Esmail]
-+ Counter created in a different year has calculate ratio for both years (year created and current). 
-+ Support Right to left layout (languages). 
-+ Some other Minor bug fixes.
+#f55943|<b><i>WHAT'S NEW IN v1.0.19?</b></i>|x
++ Show Sum of Counter for selected list in Main window (Requested by Sarfaraz Bheda).
++ Introduced list specific options. Sort Order, Showing Sum and Comma Separator can now be changed separately for each list.
+This may cause previous options for sorting and comma to restore to default. sorry for that.
++ When selecting a list, have the title bar text set to that list for better visual (Requested by Sarfaraz Bheda).
++ Code base improvement for future updates.
++ Target SDK changed to 29.
