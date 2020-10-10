@@ -2,23 +2,20 @@ MyCounter
 ------------
 > <img  alt="Logo" src="Images/MyCounter.png" width="100" />
 
-> Version: 1.0.18 | min: Android 5.0 (SDK 21)
+> Version: 1.0.19 | min: Android 5.0 (SDK 21)
 
 **DOWNLOAD**
-> [MyCounter_v1.0.18.apk](https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter)
+> [MyCounter_v1.0.19.apk](https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter)
 
 
-**WHAT'S NEW IN 1.0.18?** <br>
+**WHAT'S NEW IN 1.0.19?** <br>
 
-• Fix Force Close on some devices. <br>
-• Change History Displayed style. <br>
-• Fixed tiny scrollbar on long lists issue. <br>
-&nbsp;&nbsp;&nbsp;○ Scrolling in History shows the date. <br>
-&nbsp;&nbsp;&nbsp;○ Scrolling in Main shows counter titles. <br>
-• Show warning when list (added/renamed) is a reserved keywords/already exists. [Reported by Miran Esmail]<br>
-• Counter created in a different year has calculate ratio for both years (year created and current).  <br>
-• Support Right to left layout (languages).  <br>
-• Some other Minor bug fixes. <br>
+• Show Sum of Counter for selected list in Main window (Requested by Sarfaraz Bheda).<br>
+• Introduced list specific options. Sort Order, Showing Sum and Comma Separator can now be changed separately for each list.<br>
+This may cause previous options for sorting and comma to restore to default. sorry for that.<br>
+• When selecting a list, have the title bar text set to that list for better visual (Requested by Sarfaraz Bheda).<br>
+• Target SDK changed to 29.<br>
+• Code base improvement for future updates.<br>
 
 
 The App Screen
