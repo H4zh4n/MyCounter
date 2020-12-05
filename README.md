@@ -2,20 +2,20 @@ MyCounter
 ------------
 > <img  alt="Logo" src="Images/MyCounter.png" width="100" />
 
-> Version: 1.0.19 | min: Android 5.0 (SDK 21)
+> Version: 1.0.20 | min: Android 5.0 (SDK 21)
 
 **DOWNLOAD**
-> [MyCounter_v1.0.19.apk](https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter)
+> [MyCounter_v1.0.20.apk](https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter)
 
 
-**WHAT'S NEW IN 1.0.19?** <br>
+**WHAT'S NEW IN 1.0.20?** <br>
 
-• Show Sum of Counter for selected list in Main window (Requested by Sarfaraz Bheda).<br>
-• Introduced list specific options. Sort Order, Showing Sum and Comma Separator can now be changed separately for each list.<br>
-This may cause previous options for sorting and comma to restore to default. sorry for that.<br>
-• When selecting a list, have the title bar text set to that list for better visual (Requested by Sarfaraz Bheda).<br>
-• Target SDK changed to 29.<br>
-• Code base improvement for future updates.<br>
+• View Daily Activity for your entire lists with a pie chart.<br>
+• Increment/Decrement with a Custom date/time for history. for times you forget to increment/decrement something and wish to be precise about it's date/time.<br>
+• Multiply your counter value by a number for display purposes. This is good for counters that you use to count the times an activity occurred  [for example how many cigarettes you smoke]. you can then multiply the value by it's price to estimate how much you spend.<br>
+• Redesigned navigation menu to indicate better which list is selected.<br>
+• Moved the Add Counter button to a floating menu which has Daily Activity as-well.<br>
+• Some more code-base improvements  and bug fixes.<br>
 
 
 The App Screen

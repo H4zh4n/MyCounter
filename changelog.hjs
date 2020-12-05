@@ -1,3 +1,11 @@
+v1.0.20 | 2020 Dec 05
+• View Daily Activity for your entire lists with a pie chart.
+• Increment/Decrement with a Custom date/time for history. for times you forget to increment/decrement something and wish to be precise about it's date/time.
+• Multiply your counter value by a number for display purposes. This is good for counters that you use to count the times an activity occurred  [for example how many cigarettes you smoke]. you can then multiply the value by it's price to estimate how much you spend.
+• Redesigned navigation menu to indicate better which list is selected.
+• Moved the Add Counter button to a floating menu which has Daily Activity as-well.
+• Some more code-base improvements  and bug fixes.
+________________________________
 v1.0.19 | 2020 Oct 10
 • Show Sum of Counter for selected list in Main window (Requested by Sarfaraz Bheda).
 • Introduced list specific options. Sort Order, Showing Sum and Comma Separator can now be changed separately for each list.

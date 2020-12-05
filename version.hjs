@@ -1,11 +1,11 @@
-1.0.19 19
+1.0.20 20
 https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter
-Oct/10/2020
+Dec/05/2020
 ________________
-#f55943|<b><i>WHAT'S NEW IN v1.0.19?</b></i>|x
-+ Show Sum of Counter for selected list in Main window (Requested by Sarfaraz Bheda).
-+ Introduced list specific options. Sort Order, Showing Sum and Comma Separator can now be changed separately for each list.
-This may cause previous options for sorting and comma to restore to default. sorry for that.
-+ When selecting a list, have the title bar text set to that list for better visual (Requested by Sarfaraz Bheda).
-+ Code base improvement for future updates.
-+ Target SDK changed to 29.
+#f55943|<b><i>WHAT'S NEW IN v1.0.20?</b></i>|x
++ View #e74c3c|Daily Activity|x for your entire lists with a pie chart.
++ Increment/Decrement with a #f39c12|Custom date/time|x for history. for times you forget to increment/decrement something and wish to be precise about it's date/time.
++ #3498db|Multiply your counter value|x by a number for display purposes. This is good for counters that you use to count the times an activity occurred  [for example how many cigarettes you smoke]. you can then multiply the value by it's price to estimate how much you spend.
++ Redesigned navigation menu to indicate better which list is selected.
++ Moved the Add Counter button to a floating menu which has #e74c3c|Daily Activity|x as-well.
++ Some more code-base improvements  and bug fixes.
