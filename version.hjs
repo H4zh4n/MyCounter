@@ -1,8 +1,9 @@
-1.0.20 20
+1.0.21 21
 https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter
-Dec/05/2020
+Dec/07/2020
 ________________
-#f55943|<b><i>WHAT'S NEW IN v1.0.20?</b></i>|x
+#f55943|<b><i>WHAT'S NEW IN v1.0.21?</b></i>|x
++ View #e74c3c|Monthly Activity|x for your counters as a line chart when opening a counter. [Requested By JoeBlu]
 + View #e74c3c|Daily Activity|x for your entire lists with a pie chart.
 + Increment/Decrement with a #f39c12|Custom date/time|x for history. for times you forget to increment/decrement something and wish to be precise about it's date/time.
 + #3498db|Multiply your counter value|x by a number for display purposes. This is good for counters that you use to count the times an activity occurred  [for example how many cigarettes you smoke]. you can then multiply the value by it's price to estimate how much you spend.
