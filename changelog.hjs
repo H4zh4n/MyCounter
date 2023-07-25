@@ -11,7 +11,7 @@ files.
 • When creating a CSV you will have multiple options such as which data 
 to export, and in which order.
 ________________________________
-v1.1.1 | 2022 Jan 03
+v1.1.0 | 2022 Jan 03
 • Allow backup to create CSV files (viewable with LibreOffice Calc, MS Excel...).
 • Counter Title Limit removed. unlimited character allowed in counter title name now.
 • An Option to display DAILY chart is added (Accessible from same place as monthly chart - in Expanded Counter).
