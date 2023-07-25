@@ -1,15 +1,9 @@
 v1.1.1 | 2022 Nov 15
-• Ability to store Backup and CSV inside Document folder in main storage
- and not just in Android/data/{app package}. files can be found quicker.
- (requested by Don M. and Vase A.)
+• Ability to store Backup and CSV inside Document folder in main storage and not just in Android/data/{app package}. files can be found quicker. (requested by Don M. and Vase A.)
 
-• Separate Backup and CSV creation as two different buttons. you may 
-perform either action alone (not bundled together). There will be a 
-separate folder named CSV in each List folder which will hold only CSV 
-files.
+• Separate Backup and CSV creation as two different buttons. you may perform either action alone (not bundled together). There will be a separate folder named CSV in each List folder which will hold only CSV files.
 
-• When creating a CSV you will have multiple options such as which data 
-to export, and in which order.
+• When creating a CSV you will have multiple options such as which data to export, and in which order.
 ________________________________
 v1.1.0 | 2022 Jan 03
 • Allow backup to create CSV files (viewable with LibreOffice Calc, MS Excel...).
@@ -26,24 +20,17 @@ ________________________________
 • Killed bugs here and there, probably introduced some here and there too.
 ________________________________
 1.0.23 | 2021 Jun 21
-• Added Counted number of histories. expand a counter and scroll down to
- read more about it. [Requested by Connor de la Cruz]
+• Added Counted number of histories. expand a counter and scroll down to read more about it. [Requested by Connor de la Cruz]
 
-• Separated the Calculation section into two parts. Estimated and 
-Counted. again, more info in expanded counter.
+• Separated the Calculation section into two parts. Estimated and Counted. again, more info in expanded counter.
 
-• Disabled device forced dark mode since the app is in dark mode anyway.
- colors might seem weird at first. but those are the intended color 
-pallets across the app. you may enjoy a wider range of color for 
-counters now.
+• Disabled device forced dark mode since the app is in dark mode anyway. colors might seem weird at first. but those are the intended color pallets across the app. you may enjoy a wider range of color for counters now.
 
 • A Couple bugs squashed.
 ________________________________
 1.0.22 | 2021 Apr 27
 • Fixed Backup issue.
-Backup directory is changed to Android/Data/ now. uninstalling the app 
-will delete the backed up data. please move the backup data before 
-uninstalling the app if you wish to keep your stuff.
+Backup directory is changed to Android/Data/ now. uninstalling the app will delete the backed up data. please move the backup data before uninstalling the app if you wish to keep your stuff.
 ________________________________
 v1.0.21 | 2020 Dec 07
 • View Monthly Activity for your counters as a line chart when opening a counter. [Requested By JoeBlu]
