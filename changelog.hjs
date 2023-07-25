@@ -1,3 +1,12 @@
+v1.1.2 | 2023 Jul 26
+• Support for decimals (fractions/points) added for counters.
+Please don't use it for extreme precise values (tho up to 10 decimal places you shouldn't face any issues).
+
+• Backup/Restore improvements.
+• Restore dialog shows you which list you want to restore. AND ! No longer needed to create the list first then restoring it. it should be  visible in the restore dialog regardless.
+
+• FIXED permission request bug.
+________________________________
 v1.1.1 | 2022 Nov 15
 • Ability to store Backup and CSV inside Document folder in main storage and not just in Android/data/{app package}. files can be found quicker. (requested by Don M. and Vase A.)
 
