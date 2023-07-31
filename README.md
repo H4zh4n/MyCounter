@@ -2,20 +2,13 @@ MyCounter
 ------------
 > <img  alt="Logo" src="Images/MyCounter.png" width="100" />
 
-> Version: 1.0.21 | min: Android 5.0 (SDK 21)
+Read up on the apps features and download it from Google Play Store :
 
-**DOWNLOAD**
-> [MyCounter_v1.0.21.apk](https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter)
+<a href="https://play.google.com/store/apps/details?id=com.dev.hazhanjalal.mycounter">
+<img width="300" src="https://storage.googleapis.com/media-2017.suncitymusicfestival.com/2017/06/c247fc43-7b50e0f4-google-play.jpg">
+</a>
 
 
-**WHAT'S NEW IN 1.0.21?** <br>
-• View Monthly Activity for your counters as a line chart when opening a counter. [Requested By JoeBlu]
-• View Daily Activity for your entire lists with a pie chart.<br>
-• Increment/Decrement with a Custom date/time for history. for times you forget to increment/decrement something and wish to be precise about it's date/time.<br>
-• Multiply your counter value by a number for display purposes. This is good for counters that you use to count the times an activity occurred  [for example how many cigarettes you smoke]. you can then multiply the value by it's price to estimate how much you spend.<br>
-• Redesigned navigation menu to indicate better which list is selected.<br>
-• Moved the Add Counter button to a floating menu which has Daily Activity as-well.<br>
-• Some more code-base improvements  and bug fixes.<br>
 
 
 The App Screen
