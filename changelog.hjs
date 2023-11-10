@@ -1,3 +1,15 @@
+v1.1.3 | 2023 Nov 08
+• Fix for restore, again.
+Backup directory is set back to Android/data, please change the default backup/restore directory in settings again.
+If it still has issues please notify me, There is another fix that I held back on because the permission is not favored by PlayStore, i'll give it a try anyway if still not fixed.
+
+• Fix for CSV not being created.
+
+• Volume Up/Down for increment decrement
+
+• Notification permission request for Android 13 and higher.
+
+________________________________
 v1.1.2 | 2023 Jul 26
 • Support for decimals (fractions/points) added for counters.
 Please don't use it for extreme precise values (tho up to 10 decimal places you shouldn't face any issues).
