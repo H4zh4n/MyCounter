@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/aHGpgQV.png"/>
+
 MyCounter
 ------------
 > <img  alt="Logo" src="Images/MyCounter.png" width="100" />
